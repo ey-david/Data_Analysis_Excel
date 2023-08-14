@@ -1,4 +1,4 @@
-# Data_Analysis_Excel
+# Data_Analysis_Excel--GameCo
 
 This is a presentation of a project from the CareerFoundry data analysis training demonstrating Excel to analyze and communicate insights.
 
