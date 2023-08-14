@@ -1,5 +1,4 @@
 # Data_Analysis_Excel
-Excel portfolio featuring techniques such as VLOOKUP, pivot tables, various other functions.
 
 This is a presentation of a project from the CareerFoundry data analysis training demonstrating Excel to analyze and communicate insights.
 
